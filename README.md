@@ -35,11 +35,10 @@ This project analyzes coffee shop sales data to help the business understand its
     *   Objective: Evaluate shifting item-volume velocities to track inventory demand behaviors.
 *   *Calculate the difference in the total quantity sold between the selected month and the previous month.*
     *   Objective: Pinpoint the exact volume differences in units shifted from the immediate prior month.
-## Project Files
-- `powerbi/` — Power BI dashboard.
-- `sql/` — MySQL analysis scripts.
-- `docs/` — SQL query explanations and supporting documentation.
-- `screenshots/` — Dashboard screenshots.
-
+## Repository Structure
+* /MySQL: Contains data importation scripts and analytical database queries.
+* /powerbi: Contains the interactive .pbix dashboard tracking monthly KPI trends.
+* /docs: Contains the final project summary presentation slide deck.
+* /screenshots: Visual look book of the finished dashboard panels.
 ## Project Status
 The Power BI report and MySQL query documentation have been uploaded. The SQL scripts, dashboard screenshots, and final findings will be added as the project is completed.
